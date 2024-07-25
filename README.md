@@ -57,7 +57,7 @@ To begin your journey into Solidity programming, you'll need to set up your deve
 
 To effectively start programming in Solidity, understanding the code syntax and various options is crucial. Here’s a more detailed look at the key components:
 
-### 1. SPDX License & Version Pragma
+### 1. SPDX License
 
 - **Purpose:** Specifies the license for the contract, ensuring compliance and legal clarity.
 - **Options:** Common licenses include `MIT`, `GPL-3.0`, `Apache-2.0`, and `Unlicense`.
